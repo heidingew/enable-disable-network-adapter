@@ -20,8 +20,8 @@ The [click module](https://click.palletsprojects.com/en/5.x/) is used to create 
 
 
 ## Steps
-1. Clone the repository and run `pip install .`` to make the script callable from your command-line and run `enable-disable-network-adapter` to on check how to run
-2. You can run this using command `python main.py`
+1. Clone the repository and run `pip install .` to make the script callable from your command-line and run `enable-disable-network-adapter` to on check how to run
+2. Alternatively, you can run this using command `python main.py`
 
 
-  > **Note:** Steps above requires you to have Python installed on your machine
+  > **Note:** Steps above requires [run program as Administrator](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
